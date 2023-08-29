@@ -11,7 +11,7 @@ Sistemas de Eventos encomendado pela Morena.
 5. Configure a instância com o .env
 6. Execute os testes
 
-´´console
+´´´console
 git clone git@github.com:lucaspaimrj21/eventex.git wttd
 cd wttd
 python -m venv .wttd
