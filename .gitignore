@@ -2,7 +2,7 @@
 .idea
 .wttd
 *pyc
-.ipynb_checkpoints/
 staticfiles/
 __pycache__
 *.sqlite3
+.ipynb_checkpoints/
