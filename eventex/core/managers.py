@@ -7,7 +7,7 @@ class KindQuerySet(models.QuerySet):
     def phones(self):
         return self.filter(kind=self.model.PHONE)
     
-class PeriodoManager(models.Manager):
+class PeriodManager(models.Manager):
     MIDDAY = '12:00'
     
     def at_morning(self):
